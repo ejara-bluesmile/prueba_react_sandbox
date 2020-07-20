@@ -32,7 +32,7 @@ class Buscador extends Component {
             <input
               type="submit"
               className="btn btn-lg btn-danger btn-block"
-              placeholder="Buscar imagen"
+              placeholder="Futbol"
               value="Buscar..."
             />
           </div>
