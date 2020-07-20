@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "proyecto-react-principiante",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "primeras pruebas con React y codesandbox",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.12.0",
